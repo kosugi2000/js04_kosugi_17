@@ -1,0 +1,24 @@
+.videos{
+    display: flex
+}
+
+.theirvideo{
+    text-align: center;
+    font-size: 30px;
+}
+
+#their-video{
+    background-color: #000;
+    margin: 10px;
+    
+}
+
+.myvideo{
+    text-align: center;
+    font-size: 30px; 
+}
+
+#my-video{
+    background-color: #000;
+    margin: 10px;
+}
